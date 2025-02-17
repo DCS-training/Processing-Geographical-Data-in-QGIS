@@ -1,8 +1,9 @@
 # Processing Geographical Data in QGIS
 This repo contains the material connected to the Processing Geographical Data in QGis training
 The workshop was created for CDCS by **Ki Tong**. 
-This is an intermediate-level workshop focusing on how to manage and process geospatial data for further analysis. 
-The workshop covers the techniques for manipulating geospatial data using QGIS and visualising the results of geoprocessing.
+This workshop focuses on how to manage and process geospatial data for analysis. 
+
+The workshop covers the techniques for manipulating geospatial data using QGIS and visualising the results of geo-processing.
 The slides introduce the concept of geoprocessing, including its common types and how it is applied within the QGIS platform. 
 There are also practical exercises using real-world data, which aim to teach students how to manipulate geospatial data to align with their research objectives and perform various descriptive and statistical analyses.
 
@@ -10,7 +11,8 @@ There are also practical exercises using real-world data, which aim to teach stu
 
 This repository includes datasets and guidelines for conducting practical exercises, all contained in a zipped folder titled 'Geoprocessing.' 
 To use the material you will need to download and unzip the file.
-**N.B** The zipped file is quite large (more than 2 GB) so you need to make sure to have enough space on your laptop before downloading and unzipping it.
+
+**N.B** The zipped file is quite large (**more than 2 GB**) so you need to make sure to have enough space on your laptop before downloading and unzipping it.
 
 To download materials for the session, please click [here](https://figshare.com/account/articles/28428731?file=52409780) 
  
