@@ -14,7 +14,7 @@ To use the material you will need to download and unzip the file.
 
 **N.B** The zipped file is quite large (**more than 2 GB**) so you need to make sure to have enough space on your laptop before downloading and unzipping it.
 
-To download materials for the session, please click [here](https://figshare.com/account/articles/28428731?file=52409780) 
+To download materials for the session, please click [here](https://figshare.com/articles/dataset/Geoprocessing_Data_in_QGIS_training_/28428731?file=52409780https://figshare.com/articles/dataset/Geoprocessing_Data_in_QGIS_training_/28428731?file=52409780) 
  
 Download the datasets and follow the workbook instructions to complete the practical exercises. 
 You can also use the slides and the resource list to gather further knowledge on the topic. 
